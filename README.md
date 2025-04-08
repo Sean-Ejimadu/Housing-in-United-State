@@ -1,8 +1,9 @@
 # Housing-in-United-State
-I analyzed the real estate market and explore key factors that influence property sale prices.
-**Project: Housing in United State**
+
 **Data Source: Realtor**
+
 **Tool: Jupyter Notebook**
+
 **Approach: EDA**
 
 **Project Overview:**
