@@ -18,6 +18,7 @@ The primary goal of this project is to analyze the real estate market and explor
 The project uses a real estate dataset containing various attributes, including acre lot, price, location (state, city) etc.
 
 **Key Analyses:**
+
 *Influence of Property Size and Location on Sale Price:*
 An Exploratory Data Analysis (EDA) was used to assess the correlation between property size and sale price, while also accounting for the impact of location on price variations.
 
